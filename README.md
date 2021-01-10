@@ -38,7 +38,7 @@ Con esto se ejecutará el Script y mostrará los resultados por pantalla
 	
 Con esto se ejecutará el Script y en el directorio donde se encuentra el ejecutable __Ejercicio_4.py__, se creará un archivo __"data.txt"__ que contiene la respuesta del endpoint
 
-##Ejecución Ejercicio 7
+## Ejecución Ejercicio 7
 - Ejecutar la creación de Tablas e inserción de los datos a la Base de datos con los Script dados por la prueba
 - Utilizando un cliente de Base de Datos como DBeaver
   1. Conectarse al servidor local 
